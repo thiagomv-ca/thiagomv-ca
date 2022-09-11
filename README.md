@@ -10,16 +10,16 @@ A little about me:
 
 - I'm a Software Engineer with over 7 years of experience fond of Web Technologies, UX/UI, Quality assurance and Agile Methodologies.
 
+- [System Analysis and Development Diploma](https://badges.wes.org/Evidence?i=554f6b47-61cd-4fe9-8500-fd483177bff1&type=ca); and Self-taught.
+
 - Hands-on in creating apps, websites and problem solving, plus successful working in teams with Agile Methodologies.
 Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript, React, NextJs, Angular, Ionic, NodeJS, Bootstrap, jQuery, GIT, SQL Server, Postgres and Enterprise Resource Planning.
 
 - I have experience with publishing apps and administrators on Android (Play Store), IOS (Apple Store) and CI/CD AzureDevOps, Figma, Atlassian Jira, GitHub.
 
-- I am glad to collaborate with the team, increasing the company's brand and making a positive impact on the world through high-quality digital products.
-
 - I'm currently learning everything related to **React** and **Vue**.
 
-- [System Analysis and Development Diploma](https://badges.wes.org/Evidence?i=554f6b47-61cd-4fe9-8500-fd483177bff1&type=ca); and Self-taught 
+- I am glad to collaborate with the team, increasing the company's brand and making a positive impact on the world through high-quality digital products.
 
 ### ⚡ Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,6 +47,8 @@ Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript,
 ### 🎓 Certifications
 
 [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) [<img src="https://templates.images.credential.net/156891626619564.png" alt="Exin" width="100"/>](https://www.credential.net/f75e0918-e4b8-4b90-8fc0-699541791132#gs.byj64r)
+
+### Stats
 
 <div>
   <a href="https://github.com/thiagomv-ca">
