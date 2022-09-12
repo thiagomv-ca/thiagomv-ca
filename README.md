@@ -46,7 +46,9 @@ Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript,
 
 ### 🎓 Certifications
 
-[![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) [<img src="https://templates.images.credential.net/156891626619564.png" alt="Exin" width="100"/>](https://www.credential.net/f75e0918-e4b8-4b90-8fc0-699541791132#gs.byj64r)
+![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)
+![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)
+[<img src="https://templates.images.credential.net/156891626619564.png" alt="Exin" width="100"/>](https://www.credential.net/f75e0918-e4b8-4b90-8fc0-699541791132#gs.byj64r)
 
 ### Stats
 
