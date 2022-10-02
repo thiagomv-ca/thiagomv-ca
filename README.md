@@ -21,6 +21,15 @@ Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript,
 
 - I am glad to collaborate with the team, increasing the company's brand and making a positive impact on the world through high-quality digital products.
 
+- Projects I worked on that have their private repository
+
+	nike.com.br
+	centauro.com.br
+	produtos.totvs.com/aplicativo/app-meu-protheus 
+	produtos.totvs.com/aplicativo/app-meus-ativos-fixos 
+	produtos.totvs.com/aplicativo/app-minha-prestacao-de-contas
+
+
 ### ⚡ Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
