@@ -23,15 +23,15 @@ Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript,
 
 - Projects I worked on that have their private repository
 
-	nike.com.br
+	[Nike Brasil](https://nike.com.br)
 
-	centauro.com.br
+	[Centauro](https://centauro.com.br)
 
-	produtos.totvs.com/aplicativo/app-meu-protheus 
+	[App My Protheus](https://produtos.totvs.com/aplicativo/app-meu-protheus)
 
-	produtos.totvs.com/aplicativo/app-meus-ativos-fixos 
+	[App My Fixed Assets](https://produtos.totvs.com/aplicativo/app-meus-ativos-fixos)
 
-	produtos.totvs.com/aplicativo/app-minha-prestacao-de-contas
+	[App My Accountability](https://produtos.totvs.com/aplicativo/app-minha-prestacao-de-contas)
 
 
 ### ⚡ Skills:
