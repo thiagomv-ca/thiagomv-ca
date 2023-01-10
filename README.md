@@ -1,23 +1,23 @@
 <h1 align="center"> 
-	✅ Welcome to Thiago's GitHub 🚀
+	Welcome to Thiago's GitHub 🚀
 </h1>
-
-### Hi there 👋
 
 A little about me:
 
-- 🇨🇦 Living in Vancouver, **Canada** - I have a work permit for any companies and I'm looking for new opportunities.
-
-- I'm a Software Engineer with over 7 years of experience fond of Web Technologies, UX/UI, Quality assurance and Agile Methodologies.
+I'm a Software Engineer based in Vancouver, Canada 🇨🇦, with over +5 years of experience, fond of web technologies, UX/UI design, and agile methodologies. 
 
 - [System Analysis and Development Diploma](https://badges.wes.org/Evidence?i=554f6b47-61cd-4fe9-8500-fd483177bff1&type=ca); and Self-taught.
 
-- Hands-on in creating apps, websites and problem solving, plus successful working in teams with Agile Methodologies.
-Skilled in building Web Sites and Mobile Applications by JavaScript, TypeScript, React, NextJs, Angular, Ionic, NodeJS, Bootstrap, jQuery, GIT, SQL Server, Postgres and Enterprise Resource Planning.
+I am skilled in various programming languages and frameworks, including JavaScript, TypeScript, React, NextJs, Angular, Ionic, NodeJS, and more. I have experience building web and mobile applications, and I have a strong track record of successful project delivery using agile methodologies.
 
-- I have experience with publishing apps and administrators on Android (Play Store), IOS (Apple Store) and CI/CD AzureDevOps, Figma, Atlassian Jira, GitHub.
+I am constantly seeking to improve my skills and take on new challenges, and I am open to new opportunities to work with a talented team of professionals. 
 
-- I'm currently learning everything related to **React** and **Vue**.
+I am currently learning everything related to **React** in my free time. 
+
+Thank you for considering me for your project or opportunity. 
+
+Please feel free to contact me if you have any questions or want to see my work.
+
 
 - I am glad to collaborate with the team, increasing the company's brand and making a positive impact on the world through high-quality digital products.
 
