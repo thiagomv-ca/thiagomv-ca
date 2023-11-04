@@ -33,6 +33,8 @@ Please feel free to contact me if you have any questions or want to see my work.
 
 	[App My Accountability](https://produtos.totvs.com/aplicativo/app-minha-prestacao-de-contas)
 
+	[Protheus Insights - AI with ERP](https://tdn.totvs.com/display/public/PROT/Guia+de+uso+-+Protheus+Insights#tudo-sobre-Sobre)
+
 
 ### ⚡ Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,7 +61,6 @@ Please feel free to contact me if you have any questions or want to see my work.
 
 ### 🎓 Certifications
 
-![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)
 [<img src="https://templates.images.credential.net/156891626619564.png" alt="Exin" width="100"/>](https://www.credential.net/f75e0918-e4b8-4b90-8fc0-699541791132#gs.byj64r)
 
 ### Stats
