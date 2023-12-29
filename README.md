@@ -27,11 +27,11 @@ Please feel free to contact me if you have any questions or want to see my work.
 
 	[Centauro](https://centauro.com.br)
 
-	[App My Protheus](https://produtos.totvs.com/aplicativo/app-meu-protheus)
+	[App My Protheus](https://tdn.totvs.com/x/uTxZEg)
 
-	[App My Fixed Assets](https://produtos.totvs.com/aplicativo/app-meus-ativos-fixos)
+	[App My Fixed Assets](https://tdn.totvs.com/x/uTxZEg)
 
-	[App My Accountability](https://produtos.totvs.com/aplicativo/app-minha-prestacao-de-contas)
+	[App My Accountability](https://tdn.totvs.com/x/cSccEQ)
 
 	[Protheus Insights - AI with ERP](https://tdn.totvs.com/display/public/PROT/Guia+de+uso+-+Protheus+Insights#tudo-sobre-Sobre)
 
